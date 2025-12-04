@@ -5,11 +5,22 @@ To Design a wireframe diagram for a generic application or website using Balsami
 
 
 ## Algorithm:
-1.Welcome/Splash Screen 
-2.Login/Signup Screen 
-3.Home/Dashboard Screen 
-4.Product Listing & Checkout/Final Action Screens
+1.Identify the purpose of the app: Clearly define what the app will do and who it is for. Understand its main goal and how it will help users.
+
+2.Decide on the 5 main screens: Select the key screens — Welcome, Login, Home, Product Listing, and Contact — to form the app’s structure.
+
+3.Plan the layout and content for each screen: Decide what elements and information will appear on each screen to make navigation simple.
+
+4.Use a design tool to draw each screen as a wireframe: Create clean outlines using tools like Figma, Adobe XD, or Sketch to represent the screen layout.
+
+5.Arrange elements like buttons, icons, search bars, and text fields clearly: Place all interactive components neatly to make the design organized and easy to use.
+
+6.Connect screens to show the user flow from start to final action: Link the screens in order to show how users will move through the app’s process.
+
+7.Review the wireframes to ensure they are simple and user-friendly: Check that the design is clear, consistent, and easy to understand before finalizing.
 ## Output:
 <img width="1020" height="664" alt="image" src="https://github.com/user-attachments/assets/885239a0-9bf7-44a5-921f-ee97c4a88d85" />
 
 ## Result:
+A wireframe was made with 5 screens showing the app flow. It starts with a welcome page, then login, then shows the home screen, product listings, and a contact screen for users to share content.
+
